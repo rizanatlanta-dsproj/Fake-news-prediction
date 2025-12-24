@@ -40,8 +40,8 @@ The use of multiple models allows for a fair conmparison  and prevents reliance 
 |**Model**                 | **Accuracy** | **F1-score (Class 0-Fake)** | **F1-score (Class 1-Credible)** |
 |--------------------------|--------------|-----------------------------|---------------------------------|
 | Decision Tree Classifier |  *48.8%*     |  *o.48*                     |  *0.50*                         |
-| Logistic Regression model|  *52.7*      |  *0.40*                     |  *0.61*                         |
-| Tuned SVM Model          |  *52.78*     |  *0.43*                     |  *0.60*                         |
+| Logistic Regression model|  *52.7%*      |  *0.40*                     |  *0.61*                         |
+| Tuned SVM Model          |  *52.78%*     |  *0.43*                     |  *0.60*                         |
 
 ## Analysis
 Logistic Regression and the tuned SVM achieved the highest overall accuracy (52.7%). Logistic Regression demonstrated the strongest perfomance in identifying credible news, achieving the highest F1-score for class 1.<br/>
