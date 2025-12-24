@@ -39,8 +39,8 @@ The use of multiple models allows for a fair conmparison  and prevents reliance 
 ## Model comparison
 |**Model**                 | **Accuracy** | **F1-score (Class 0-Fake)** | **F1-score (Class 1-Credible)** |
 |--------------------------|--------------|-----------------------------|---------------------------------|
-| Decision Tree Classifier |  *48.8%*     |  *o.48*                     |  *0.50*                         |
-| Logistic Regression model|  *52.7%*      |  *0.40*                     |  *0.61*                         |
+| Decision Tree Classifier |  *48.8%*     |  *0.48*                     |  *0.50*                         |
+| Logistic Regression model|  *52.7%*     |  *0.40*                     |  *0.61*                         |
 | Tuned SVM Model          |  *52.7%*     |  *0.43*                     |  *0.60*                         |
 
 ## Analysis
