@@ -87,4 +87,4 @@ https://drive.google.com/file/d/1L9ifIQFeaW0ir-w_FqUXaSlJ02WLKjFZ/view?usp=shari
 
 ## Conclusion
 This project presents a complete pipeline for fake news detection, covering data preprocessing, feature extraction, model training, and evaluation. The final model achieved an accuracy of 52.7%, which reflects the inherent difficulty of the task rather than a lack of methodological rigor.<br/>
-Overall, the project emphasizes sound methodology, transparent, evaluation, and realistic interpretation of results,forming a strong foundation improvements using more advanced models and richer representations.
+Overall, the project emphasizes sound methodology, transparent evaluation, and realistic interpretation of results,forming a strong foundation improvements using more advanced models and richer representations.
