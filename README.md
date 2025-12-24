@@ -5,7 +5,7 @@
 
 
 ## Project Overview
-This project presents a machine learning-based approach to detecting fake news by classifying news articles as **Fake** or **Credible**. This objective is not only to build a classifier but to **systematically evaluate and compare multiple models, interpret results, and understand the limitation of text-based fake news detection.<br/>
+This project presents a machine learning-based approach to detecting fake news by classifying news articles as **Fake** or **Credible**. This objective is not only to build a classifier but to **systematically evaluate** and compare multiple models, interpret results, and understand the limitation of text-based fake news detection.<br/>
 The project follows a complete data science workflow including preprocessing, feature extraction, model training, evaluation, and model comparison.
 
 ## Dataset Description
