@@ -50,7 +50,7 @@ The Decision Tree classifier showed comparatively weaker performance, suggesting
 ## Final Model selection 
 Logistic Model regression was selected as the final model due to its balanced performance, interpretability, and consistent behavior across evaluation metrics.
 
-##Limitations and Future Improvements
+## Limitations and Future Improvements
 Fake news detection is inherently complex due to language ambiguity, sarcasm, and lack of contextual information. As a result, Model performance remained moderate despite experimentation with multiple approaches. <br/>
 
 Future improvements may include:
