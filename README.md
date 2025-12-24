@@ -1,6 +1,6 @@
 # Fake-news-prediction using Machine Learning.
-**Author**  : Rizan Atlanta (Fariha Hossain Rizan).
-**Project** : Data science / Machine Learning.
+**Author**  : Rizan Atlanta (Fariha Hossain Rizan).<br/>
+**Project** : Data science / Machine Learning.<br/>
 **Status**  : Completed (Temporarily).
 
 
@@ -77,4 +77,13 @@ https://drive.google.com/file/d/1L9ifIQFeaW0ir-w_FqUXaSlJ02WLKjFZ/view?usp=shari
 
 ## References 
 1. Shu, K., A., Wang, S., Tang,J., &Liu, H. (2017). <br/>
-*Fake news detection on social media: A 
+*Fake news detection on social media: A data mining perspective. ACM SIGKDD Exploration,19(1), 22-36*
+2. Wang, W.Y. (2017). *"Liar, Liar Pants on Fire": *A new benchmark datset for fake news detection. Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL), 422-426*
+3. Devlin, J., Chang, M. W.,Lee,K.,& Toutanova,K. (2019). BERT : *Pre-Training of deep bidirectional transformers for language understanding. NAACL.*
+4. Soveatin Kuntur, M., Krywda,M., Wroblewska,A., Paprzycki,M., & Ganzha, M. (2024). *Comparative analysis of graph neural networks and transformers for robust fake news detection.* Electronics. This study empirically evaluates transformers-based NLP models. (e.g. BERT,RoBERTa, GPT-2).
+5. An Unsupervised Fake News Detection Framework Based on Structural Contrasive Learning (2025).
+6. Pedrogosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ...& Duchesnay, E.(2011). *Scikit-learn: Machine learning in Python. Journal of Machine Learning Research 12, 2825-2830.*
+
+## Conclusion
+This project presents a complete pipeline for fake news detection, covering data preprocessing, feature extraction, model training, and evaluation. The final model achieved an accuracy of 52.7%, which reflects the inherent difficulty of the task rather than a lack of methodological rigor.<br/>
+Overall, the project emphasizes sound methodology, transparent, evaluation, and realistic interpretation of results,forming a strong foundation improvements using more advanced models and richer representations.
